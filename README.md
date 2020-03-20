@@ -14,8 +14,8 @@ Dataset attributes:
 - caseid: only used to refer contacts with initial cases. may be useful to discover communities.
 - date: this is the date the case was announced to the public.
 - gender, age, nationality and profession: these are data referring to the case subject. If data is missing it is labeled as NA. Initially, there was more data released by media outlets but with the increase of cases the data is more sparse.
-- area: this data reflects the cyprus providence. It can be more fine-grained in the future (e.g., state stavrovouni instead of larnaca).
+- area: this data reflects the cyprus providence. It can be more fine-grained in the future (e.g., stavrovouni instead of larnaca).
 - impact: how the case was (possibly) occured. Travel includes the origin. contact is the other possibility and we also have unknown.
-- hospitalized refers to hospitalization of the case, ICU means the patient was admitted to the ICU while recovered refers to the patient recovered. This data can be completely wrong. also, up to know, recovered cases are just referred by the goverment as numbers (e.g., 2 recovered) and do not state which case has recovered. so this attribute may be completely useless.
-- relation: this attribute refers to contacts and if we know which case was the contact related to (e.g., all the nurse personell in paphos gen. hospital came in contact with patient in ICU).
+- hospitalized refers to hospitalization of the case, ICU means the patient was admitted to the ICU while recovered refers to the patient recovered. This data can be completely wrong. Also, up to now, recovered cases are just referred by the goverment as numbers (e.g., 2 recovered) and do not state which case has recovered. so this attribute may be completely useless.
+- relation: this attribute refers to contacts and if we know which case was the contact related to (e.g., all the nurse personell in paphos gen. hospital came in contact with patient in ICU). A -1 is used for cases that were occured by travel and NA if the contact is unknown.
 
