@@ -57,7 +57,7 @@ caseid,date,gender,age,nationality,area,impact,profession,hospitalized,ICU,recov
 56,18/03/2020,NA,NA,NA,NA,contact,NA,0,0,0,NA
 57,18/03/2020,M,NA,british,british occupied area,travel (uk),NA,0,0,0,-1
 58,18/03/2020,NA,NA,NA,NA,Not Known,NA,1,0,0,NA
-59,19/03/2020,M,NA,cypriot,paphos,contact,doctor,0,0,0,61
+59,19/03/2020,M,NA,cypriot,paphos,contact,doctor (private),0,0,0,61
 60,19/03/2020,M,NA,cypriot,limassol,contact,public health administrator,0,0,0,26
 61,19/03/2020,F,NA,cypriot,paphos,contact,nurse,0,0,0,26
 62,19/03/2020,NA,NA,NA,paphos,contact,patient (gh paphos),1,0,0,26
@@ -66,3 +66,11 @@ caseid,date,gender,age,nationality,area,impact,profession,hospitalized,ICU,recov
 65,19/03/2020,NA,NA,NA,NA,travel (italy),NA,0,0,0,-1
 66,19/03/2020,NA,NA,NA,NA,travel (uk),NA,0,0,0,-1
 67,19/03/2020,NA,NA,NA,NA,travel (bulgaria),NA,0,0,0,-1
+68,20/03/2020,M,NA,cypriot,paphos,contact,doctor (private),0,0,0,NA
+69,20/03/2020,NA,NA,cypriot,limassol,contact,health worker,0,0,0,NA
+70,20/03/2020,NA,NA,cypriot,paphos,contact,health worker,0,0,0,26
+71,20/03/2020,NA,NA,NA,paphos,contact,health worker,0,0,0,26
+72,20/03/2020,NA,NA,NA,paphos,contact,health worker,0,0,0,26
+73,20/03/2020,NA,NA,NA,NA,contact,NA,0,0,0,NA
+74,20/03/2020,NA,NA,NA,NA,contact,NA,0,0,0,NA
+75,20/03/2020,NA,NA,NA,NA,contact,NA,0,0,0,NA
