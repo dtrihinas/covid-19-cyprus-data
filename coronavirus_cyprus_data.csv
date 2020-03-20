@@ -1,4 +1,4 @@
-﻿caseid,date,gender,age,nationality,area,impact,profession,hospitalized,ICU,recovered,relation
+caseid,date,gender,age,nationality,area,impact,profession,hospitalized,ICU,recovered,relation
 1,10/03/2020,M,25,cypriot,nicosia,travel (italy),NA,0,0,0,-1
 2,10/03/2020,M,64,cypriot,nicosia,travel (uk),doctor,0,0,0,-1
 3,11/03/2020,M,NA,cypriot,nicosia,travel (uk),NA,1,0,0,-1
@@ -66,15 +66,3 @@
 65,19/03/2020,NA,NA,NA,NA,travel (italy),NA,0,0,0,-1
 66,19/03/2020,NA,NA,NA,NA,travel (uk),NA,0,0,0,-1
 67,19/03/2020,NA,NA,NA,NA,travel (bulgaria),NA,0,0,0,-1
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,67,cases,,,,,,,,,
-,37,contacts,,,,,,,,,
