@@ -14,7 +14,7 @@ caseid,date,gender,age,nationality,area,impact,profession,hospitalized,ICU,recov
 13,13/03/2020,NA,NA,NA,NA,contact,NA,0,0,0,9
 14,13/03/2020,NA,NA,NA,NA,contact,NA,0,0,0,9
 15,13/03/2020,M,47,cypriot,limassol,contact,patient (gh limassol),1,1,0,-1
-16,13/03/2020,F,NA,NA,NA,contact,NA,0,0,1,6
+16,13/03/2020,F,NA,cypriot,paphos,contact,NA,0,0,1,6
 17,13/03/2020,NA,NA,NA,NA,contact,NA,0,0,0,9
 18,13/03/2020,NA,NA,NA,NA,contact,NA,0,0,0,9
 19,13/03/2020,NA,NA,NA,NA,contact,NA,0,0,0,9
@@ -56,7 +56,7 @@ caseid,date,gender,age,nationality,area,impact,profession,hospitalized,ICU,recov
 55,18/03/2020,NA,NA,NA,NA,contact,NA,0,0,0,NA
 56,18/03/2020,NA,NA,NA,NA,contact,NA,0,0,0,NA
 57,18/03/2020,M,NA,british,british occupied area,travel (uk),NA,0,0,0,-1
-58,18/03/2020,NA,NA,NA,NA,Not Known,NA,1,0,0,NA
+58,18/03/2020,NA,NA,NA,NA,unknown,NA,1,0,0,NA
 59,19/03/2020,M,NA,cypriot,paphos,contact,doctor (private),0,0,0,61
 60,19/03/2020,M,NA,cypriot,limassol,contact,public health administrator,0,0,0,"{50,26}"
 61,19/03/2020,F,NA,cypriot,paphos,contact,nurse,0,0,0,26
