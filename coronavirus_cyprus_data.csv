@@ -78,7 +78,7 @@ caseid,date,gender,age,nationality,area,impact,profession,hospitalized,ICU,recov
 77,21/03/2020,NA,NA,NA,NA,contact,NA,0,0,0,NA,
 78,21/03/2020,NA,NA,NA,NA,contact,NA,0,0,0,NA,
 79,21/03/2020,M,NA,cypriot,paphos,contact,nurse,0,0,0,26,
-80,21/03/2020,M,NA,cypriot,NA,unknown,pilot,0,0,0,-1,
+80,21/03/2020,M,58,cypriot,nicosia,unknown,pilot,1,1,0,-1,
 81,21/03/2020,F,79,cypriot,famagusta,travel (uk),pensioner,1,0,0,-1,
 82,21/03/2020,NA,NA,NA,NA,travel (spain),NA,0,0,0,-1,
 83,21/03/2020,NA,NA,NA,NA,travel (poland),NA,0,0,0,-1,
