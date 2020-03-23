@@ -7,7 +7,7 @@ This dataset is intended to be updated daily when new announcements (although I 
 
 I assume no responsibility for the accuracy of this data. It was collected by trawling the goverment's announcements and from scraped information released by media outlets. There are times where these do not completely agree.
 
-This is an open call to anyone willing to help with the data collection process. If you are interested in correcting, updating or enriching the dataset then contact me or do a pull/push request. The end goal is to host this data publically and in an open format (like others are doing in the EU). Possible repository could be the cyprus open data platform.
+This is an open call to anyone willing to help with the data collection process. If you are interested in correcting, updating or enriching the dataset then contact me (trihinas{at}unic.ac.cy) or do a pull/push request. The end goal is to host this data publically and in an open format (like others are doing in the EU). Possible repository could be the cyprus open data platform.
 
 Dataset attributes:
 
