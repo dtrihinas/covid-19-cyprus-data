@@ -1,8 +1,8 @@
 caseid,date,gender,age,nationality,area,impact,profession,hospitalized,ICU,recovered,relation,notes
 1,10/03/2020,M,25,cypriot,limassol,travel (italy),NA,0,0,1,-1,
 2,10/03/2020,M,64,cypriot,nicosia,travel (uk),doctor,0,0,1,-1,
-3,11/03/2020,M,NA,cypriot,nicosia,travel (uk),NA,1,0,0,-1,
-4,11/03/2020,F,NA,cypriot,nicosia,travel (uk),NA,1,0,0,-1,
+3,11/03/2020,M,NA,cypriot,nicosia,travel (uk),pensioner,1,0,1,-1,
+4,11/03/2020,F,NA,cypriot,nicosia,travel (uk),NA,1,0,1,-1,
 5,11/03/2020,F,NA,greek,limassol,travel (italy),NA,1,0,1,-1,
 6,11/03/2020,M,NA,cypriot,paphos,unknown,taxi driver,1,0,1,-1,
 7,12/03/2020,NA,NA,NA,NA,travel (uk),NA,0,0,0,-1,
@@ -22,7 +22,7 @@ caseid,date,gender,age,nationality,area,impact,profession,hospitalized,ICU,recov
 21,13/03/2020,NA,NA,NA,NA,travel (uk),NA,0,0,0,-1,
 22,14/03/2020,NA,NA,NA,NA,travel (italy),NA,0,0,0,-1,
 23,14/03/2020,NA,NA,NA,NA,travel (italy),NA,0,0,0,-1,
-24,14/03/2020,M,47,greek,larnaca,contact,NA,1,1,0,9,died no threating health problems
+24,14/03/2020,M,47,greek,larnaca,contact,NA,1,1,0,9,died no threating health problems 27/3
 25,14/03/2020,NA,NA,NA,NA,contact,NA,0,0,0,NA,
 26,14/03/2020,M,65,british,paphos,contact,patient (gh paphos),1,1,0,-1,died multiple health problems
 27,15/03/2020,M,NA,british,british occupied area,travel (uk),NA,0,0,0,-1,
@@ -83,7 +83,7 @@ caseid,date,gender,age,nationality,area,impact,profession,hospitalized,ICU,recov
 82,21/03/2020,NA,NA,NA,NA,travel (spain),NA,0,0,0,-1,
 83,21/03/2020,NA,NA,NA,NA,travel (poland),NA,0,0,0,-1,
 84,21/03/2020,NA,NA,NA,NA,travel (poland),NA,0,0,0,-1,
-85,22/03/2020,F,76,cypriot,nicosia,unknown,pensioner,1,1,0,-1,died
+85,22/03/2020,F,76,cypriot,limassol,unknown,pensioner,1,1,0,-1,died minor health problems 27/3
 86,22/03/2020,M,NA,NA,larnaca,contact,army,0,0,0,35,
 87,22/03/2020,M,NA,NA,larnaca,contact,army,0,0,0,35,
 88,22/03/2020,NA,NA,NA,paphos,contact,cleaner (hospital),0,0,0,26,
